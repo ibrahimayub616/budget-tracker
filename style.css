@@ -1,0 +1,17 @@
+/* Element Selector */
+h1 {
+    color: darkblue;
+}
+
+/* Class Selector */
+.expense-section {
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* ID Selector */
+#expenses {
+    background-color: lightgray;
+    padding: 10px;
+}
